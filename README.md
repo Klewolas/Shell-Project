@@ -1,4 +1,4 @@
-# Kabuk-Projesi
+# Shell-Project
 Linux komutlarını çalıştıran basit bir shell uygulaması.
 
 -Komutların birbirinden ";" karakteri ile ayırarak tek satırda paralel çalışmasını sağlayabilirsiniz. <br />
